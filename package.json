@@ -1,0 +1,24 @@
+{
+  "name": "vova-template-react",
+  "version": "0.0.5",
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "description": "react 项目模板",
+  "license": "MIT",
+  "dependencies": {
+    "babel-plugin-import": "^1.11.0",
+    "babel-preset-vova": "0.0.1",
+    "babel-runtime": "^6.26.0",
+    "postcss-pxtorem": "^4.0.1",
+    "react-wx-images-viewer": "^1.0.6",
+    "ts-import-plugin": "^1.5.5",
+    "typescript": "^3.2.1",
+    "vova-scene-react": "0.0.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
